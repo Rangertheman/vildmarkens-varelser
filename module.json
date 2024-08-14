@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.1",
+   "version":"0.0.2",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
@@ -42,7 +42,7 @@
          "label":"Monsterattacker",
          "name":"monsterattacker",
          "path":"./packs/monsterattacker.db",
-         "type":"RolTable",
+         "type":"RollTable",
          "system":"dragonbane"
       }
    ],
