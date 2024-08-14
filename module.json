@@ -1,0 +1,63 @@
+{
+   "id":"vildmarkens-varelser",
+   "title":"Vildmarkens varelser",
+   "description":"Endast för personligt bruk",
+   "url":"https://github.com/Rangertheman/vildmarkens-varelser",
+   "manifest":"https://raw.githubusercontent.com/Rangertheman/vildmarkens-varelser/master/module.json",
+   "download":"https://github.com/Rangertheman/vildmarkens-varelser/archive/master.zip",
+   "authors":[
+      {
+         "name":"Krister Persson (Rangertheman)",
+         "discord":"Rangertheman",
+         "flags":{
+            
+         }
+      }
+   ],
+   "version":"0.0.1",
+   "compatibility":{
+      "minimum":"12",
+      "verified":"12"
+   },
+   "relationships":{
+      "systems":[
+         {
+            "id":"dragonbane",
+            "type":"system",
+            "compatibility":{
+               "minimum":"1.9.0"
+            }
+         }
+      ]
+   },
+   "packs":[
+      {
+         "label":"Bestar",
+         "name":"bestar",
+         "path":"./packs/bestar.db",
+         "type":"Actor",
+         "system":"dragonbane"
+      },
+      {
+         "label":"Monsterattacker",
+         "name":"monsterattacker",
+         "path":"./packs/monsterattacker.db",
+         "type":"RolTable",
+         "system":"dragonbane"
+      }
+   ],
+   "packFolders":[
+      {
+         "name":"Vildmarkens varelser",
+         "sorting":"a",
+         "color":"#5987bb",
+         "packs":[
+            "bestar",
+            "monsterattacker"
+         ],
+         "folders":[
+            
+         ]
+      }
+   ]
+}
