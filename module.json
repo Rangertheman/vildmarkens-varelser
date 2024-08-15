@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.6",
+   "version":"0.0.7",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
@@ -32,32 +32,12 @@
    },
    "packs":[
       {
-         "label":"Bestar",
-         "name":"bestar",
-         "path":"./packs/bestar.db",
-         "type":"Actor",
-         "system":"dragonbane"
-      },
-      {
-         "label":"Monsterattacker",
-         "name":"monsterattacker",
-         "path":"./packs/monsterattacker.db",
-         "type":"RollTable",
-         "system":"dragonbane"
-      }
-   ],
-   "packFolders":[
-      {
-         "name":"Vildmarkens varelser",
-         "sorting":"a",
-         "color":"#5987bb",
-         "packs":[
-            "bestar",
-            "monsterattacker"
-         ],
-         "folders":[
-            
-         ]
+         "label":"Vildmarkens varelser",
+         "name":"vildmarkens-varelser",
+         "path":"./packs/vildmarkens-varelser.db",
+         "type":"Adventure",
+         "system":"dragonbane",
+         "banner":"./modules/vildmarkens-varelser/img/cover/Vildmarkens_varelser_cover.png"
       }
    ]
 }
