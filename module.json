@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.4",
+   "version":"0.0.5",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
@@ -25,7 +25,7 @@
             "id":"dragonbane",
             "type":"system",
             "compatibility":{
-               "minimum":"1.9.0"
+               "minimum":"1.9.1"
             }
          }
       ]
