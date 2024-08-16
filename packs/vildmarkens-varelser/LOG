@@ -1,15 +1,15 @@
-2024/08/16-17:01:18.271 3f04 Recovering log #39
-2024/08/16-17:01:18.282 3f04 Delete type=0 #39
-2024/08/16-17:01:18.283 3f04 Delete type=3 #37
-2024/08/16-17:50:20.887 1fdc Level-0 table #44: started
-2024/08/16-17:50:20.895 1fdc Level-0 table #44: 108717 bytes OK
-2024/08/16-17:50:20.898 1fdc Delete type=0 #42
-2024/08/16-17:50:20.913 1fdc Manual compaction at level-0 from '!adventures!4046NkIJxhcH9mIg' @ 72057594037927935 : 1 .. '!adventures!4046NkIJxhcH9mIg' @ 0 : 0; will stop at (end)
-2024/08/16-17:50:20.913 1fdc Manual compaction at level-1 from '!adventures!4046NkIJxhcH9mIg' @ 72057594037927935 : 1 .. '!adventures!4046NkIJxhcH9mIg' @ 0 : 0; will stop at '!adventures!4046NkIJxhcH9mIg' @ 6 : 1
-2024/08/16-17:50:20.914 1fdc Compacting 1@1 + 1@2 files
-2024/08/16-17:50:20.921 1fdc Generated table #45@1: 1 keys, 61915 bytes
-2024/08/16-17:50:20.921 1fdc Compacted 1@1 + 1@2 files => 61915 bytes
-2024/08/16-17:50:20.923 1fdc compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/08/16-17:50:20.923 1fdc Delete type=2 #28
-2024/08/16-17:50:20.923 1fdc Delete type=2 #44
-2024/08/16-17:50:20.995 1fdc Manual compaction at level-1 from '!adventures!4046NkIJxhcH9mIg' @ 6 : 1 .. '!adventures!4046NkIJxhcH9mIg' @ 0 : 0; will stop at (end)
+2024/08/16-17:57:57.672 1660 Recovering log #43
+2024/08/16-17:57:57.678 1660 Delete type=0 #43
+2024/08/16-17:57:57.678 1660 Delete type=3 #41
+2024/08/16-18:22:29.815 1fdc Level-0 table #49: started
+2024/08/16-18:22:29.823 1fdc Level-0 table #49: 131091 bytes OK
+2024/08/16-18:22:29.826 1fdc Delete type=0 #47
+2024/08/16-18:22:29.829 1fdc Manual compaction at level-0 from '!adventures!4046NkIJxhcH9mIg' @ 72057594037927935 : 1 .. '!adventures!4046NkIJxhcH9mIg' @ 0 : 0; will stop at (end)
+2024/08/16-18:22:29.834 1fdc Manual compaction at level-1 from '!adventures!4046NkIJxhcH9mIg' @ 72057594037927935 : 1 .. '!adventures!4046NkIJxhcH9mIg' @ 0 : 0; will stop at '!adventures!4046NkIJxhcH9mIg' @ 8 : 1
+2024/08/16-18:22:29.834 1fdc Compacting 1@1 + 1@2 files
+2024/08/16-18:22:29.841 1fdc Generated table #50@1: 1 keys, 66770 bytes
+2024/08/16-18:22:29.841 1fdc Compacted 1@1 + 1@2 files => 66770 bytes
+2024/08/16-18:22:29.844 1fdc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/16-18:22:29.844 1fdc Delete type=2 #45
+2024/08/16-18:22:29.844 1fdc Delete type=2 #49
+2024/08/16-18:22:29.844 1fdc Manual compaction at level-1 from '!adventures!4046NkIJxhcH9mIg' @ 8 : 1 .. '!adventures!4046NkIJxhcH9mIg' @ 0 : 0; will stop at (end)
