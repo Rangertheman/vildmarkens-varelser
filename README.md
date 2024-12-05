@@ -2,4 +2,4 @@ Vildmarkens varelser är en oberoende publikation av Lehto Spel och Media och ha
 
 Drakar och Demoner och Ereb Altor är registrerade varumärken tillhörande Fria Ligan AB.
 
-![Lehto Spel & Media](https://github.com/Rangertheman/vildmarkens-varelser/blob/master/img/Lehto%20Spel%20och%20Media%20barn%20ungdom.png)
+<img src="https://github.com/Rangertheman/vildmarkens-varelser/blob/master/img/Lehto%20Spel%20och%20Media%20barn%20ungdom.png" alt="Lehto Spel och Media" width="25%" height="25%">
